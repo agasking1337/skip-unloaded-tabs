@@ -17,8 +17,7 @@ IMPORTANT: This add-on only works with your Logitech horizontal wheel if you map
 
 ## Requirements
 
-- Zen Browser (Firefox-based)
-- Temporary add-on loading enabled
+- Zen Browser
 - Logi Options+
 
 ## Default Shortcuts
